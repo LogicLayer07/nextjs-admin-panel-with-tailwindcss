@@ -36,9 +36,3 @@
 
 npm install <br />
 npm run dev
-
----
-
-## Credits
-
-Inspired by https://codepen.io/azrikahar/pen/abZzaga
